@@ -1,3 +1,4 @@
+%
 function [x,fval,exitflag,output]=RaidenDMG(X)
 
 if exist('X','var')
